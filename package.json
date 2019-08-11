@@ -1,6 +1,6 @@
 {
   "name": "myquariumfishs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of all fish species supported by MyQuarium platform",
   "main": "index.js",
   "repository": {
