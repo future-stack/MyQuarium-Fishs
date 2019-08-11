@@ -1,0 +1,30 @@
+[
+    {
+        "specie": "Betta",
+        "scientificName": "Betta splendens"
+    },
+    {
+        "specie": "Molinésia",
+        "scientificName": "Poecilia latipinna"
+    },
+    {
+        "specie": "Limpa-vidro",
+        "scientificName": "Othocinclus vestitus"
+    },
+    {
+        "specie": "Limpa-fundo",
+        "scientificName": "Corydoras aeneus"
+    },
+    {
+        "specie": "Paulistinha",
+        "scientificName": "Brachydanio rerio"
+    },
+    {
+        "specie": "Neon cardinal",
+        "scientificName": "Paracheirodon axelrodi"
+    },
+    {
+        "specie": "Beijador",
+        "scientificName": "Helostoma temmincki"
+    }
+]
